@@ -7,7 +7,7 @@
 4. Used time-of-day and day-of-week insights to maximize campaign visibility and effectiveness.
 5. Identified the most effective platforms and ad formats to improve overall marketing performance.
 
-### Approaches
+### Approaches Details
 
 1. Processed & Cleaned Data in Python
 + Cleaned and transformed millions of rows using Python, including data type correction, timestamp parsing, missing value handling, outlier filtering, and feature engineering for time-based and demographic segmentation.
