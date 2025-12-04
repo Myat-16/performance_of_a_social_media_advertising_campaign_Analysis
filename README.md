@@ -1,6 +1,6 @@
 # Project Name: Performance of a Social Media Advertising Campaign Analysis
-## Data Source: https://www.kaggle.com/datasets/alperenmyung/social-media-advertisement-performance
-### Key Business Impacts
+### Data Source: https://www.kaggle.com/datasets/alperenmyung/social-media-advertisement-performance
+## Key Business Impacts
 1. Identified top campaigns, ad types, and platforms to optimize budget allocation and boost return on ad spend.
 2. Highlighted low-performing ads, cutting ineffective spend while scaling high-engagement campaigns.
 3. Pinpointed peak days, genders, and age groups, increasing CTR by 2–5× and improving conversions.
